@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="fixed z-[999] w-full px-[5.922vw] py-5 font-[NeueMontreal] flex items-center justify-between  mix-blend-difference">
+    <nav className="fixed z-[999] w-full px-[5.922vw] py-5 font-[NeueMontreal] flex items-center justify-between backdrop-blur-2xl">
       <div className="logo">
         <svg
           width="72"
