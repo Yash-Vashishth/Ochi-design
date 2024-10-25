@@ -24,24 +24,18 @@ const Footer = () => {
           <div className='flex items-center justify-between pr-7'>
             <div className='flex flex-col gap-0 '>
               <span className='mb-4'>L:</span>
-              <span>202-1965 W 4th Ave</span>
-              <span className='mb-4'>Vancouver, Canada</span>
-              <span>30 Chukarina St</span>
-              <span>Lviv, Ukraine</span>
+              <span>BR Auditorium</span>
+              <span className='mb-4'>Delhi Technological University,Delhi</span>
+
             </div>
             <div className='flex flex-col gap-0'>
               <span className='mb-4'>M:</span>
               <span>Home</span>
-              <span>Services</span>
-              <span>Our work</span>
-              <span>About us</span>
-              <span>Insights</span>
-              <span>Contact us</span>
             </div>
           </div>
           <div className='flex flex-col gap-0'>
             <span className='mb-4'>E:</span>
-            <span>hello@ochi.design</span>
+            <span>hello@planorama.design</span>
           </div>
         </div>
       </div>
@@ -78,8 +72,8 @@ const Footer = () => {
         </svg></div>
         </div>
         <div className='w-1/2 flex items-center justify-between'>
-            <div>© ochi design 2024. Legal Terms</div>
-            <div>Website by Obys</div>
+            <div>© Planorama 2024. Legal Terms</div>
+            <div>Website by Cyber Sena</div>
         </div>
       </div>
     </div>
