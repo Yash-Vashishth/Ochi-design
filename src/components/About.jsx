@@ -18,13 +18,13 @@ const About = () => {
           </div>
           <div className="flex flex-col basis-[25vw] w-[50vw] gap-7">
             <span>
-              We create tailored presentations to help you persuade your
-              colleagues, clients, or investors. Whether it’s live or digital,
-              delivered for one or a hundred people.
+              We have created an interactive chatbot that has the sole purpose of decentralizing important tasks
+              It has tailored events for you to attend based on your availability, type of event , location
+              and customer satisfaction.
             </span>
 
             <span>
-              We believe the mix of strategy and design (with a bit of coffee)
+              We believe the mix of strategy, design and chatting (with a bit of coffee)
               is what makes your message clear, convincing, and captivating.
             </span>
           </div>

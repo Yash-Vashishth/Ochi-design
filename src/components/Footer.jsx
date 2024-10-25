@@ -6,14 +6,14 @@ const Footer = () => {
         <div className='flex items-start justify-between'>
       <div className='w-1/2 h-screen  flex flex-col justify-between'>
         <div>
-          <h1 className="font-['FoundersGrotesk'] leading-[7vw] uppercase text-[9vw]">EYE-</h1>
-          <h1 className="font-['FoundersGrotesk'] leading-[7vw] uppercase text-[9vw]">OPENING</h1>
+          <h1 className="font-['FoundersGrotesk'] leading-[7vw] uppercase text-[9vw]">AMAZING-</h1>
+          <h1 className="font-['FoundersGrotesk'] leading-[7vw] uppercase text-[9vw]">ENGAGING</h1>
         </div>
         
       </div>
       <div className='w-1/2 h-full '>
         <div className='flex flex-col gap-10'>
-          <h1 className="font-['FoundersGrotesk'] leading-[7vw] uppercase text-[9vw]">PRESENTATIONS</h1>
+          <h1 className="font-['FoundersGrotesk'] leading-[7vw] uppercase text-[9vw]">EVENTS</h1>
           <div className='flex flex-col gap-0'>
             <span className='mb-4'>S:</span>
             <span>Instagram</span>
